@@ -23,7 +23,7 @@ To get the project .......
   
 ##### Cloning the repository:  
  ```bash 
- https://github.com/Owiti-Charles/project-awwards.git 
+ https://github.com/Festus-Mutie/project-awwards.git 
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
