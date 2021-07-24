@@ -5,22 +5,12 @@
 # Description  
 This project allows users to post their projects for other users to rate according to design, usability and content 
 ##  Live Link  
- Click [View Site]()  to visit the site
   
-## Screenshots 
-###### Home page
- 
-<img src="https://ucarecdn.com/a4305bbb-8ef8-4570-8bf2-48ea79029197/">
- 
- ###### Rating of a post
- <img src="https://ucarecdn.com/fa9f5724-d815-4c55-b5a0-414dbc727d02/"> 
-
-
  
 ## User Story  
   
 * A user can view posted projects and their details.  
-* A user can post a project to be rated/reviewed. 
+* A user can post a project to be get rated/reviewed. 
 * A user can rate/ review other users' projects.  
 * Search for projects.  
 * View projects overall score.
