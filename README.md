@@ -5,7 +5,7 @@
 # Description  
 This project allows users to post their projects for other users to rate according to design, usability and content 
 ##  Live Link  
-  
+  https://festoawward.herokuapp.com/
  
 ## User Story  
   
@@ -56,16 +56,12 @@ python manage.py makemigrations instagram
 ```
 Open the application on your browser `127.0.0.1:8000`.  
   
- ### Api Endpoints
- * https://chawwards.herokuapp.com/api/users/
- * https://chawwards.herokuapp.com/api/profile/
- * https://chawwards.herokuapp.com/api/posts/
- 
+
  
 ## Technology used  
   
 * [Python3.6](https://www.python.org/)  
-* [Django 1.11](https://docs.djangoproject.com/en/2.2/)  
+* [Django ](https://docs.djangoproject.com/en/2.2/)  
 * [Heroku](https://heroku.com)  
   
   
